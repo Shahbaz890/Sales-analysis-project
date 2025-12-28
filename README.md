@@ -9,7 +9,9 @@ Analysis Sales data to Exctract Business Insights and Visualize Trends using Pyt
 - Numpy
 - Mathplotlib
 - Seaborn
+  
 ** Jupytor Nootbook **
+
 ** Github **
 
 # Key Analysis Performed 
@@ -27,7 +29,7 @@ Analysis Sales data to Exctract Business Insights and Visualize Trends using Pyt
    - customer segmentation analysis
 ## Key Insights
 - Identified 3 top performing proudct categories
-- Found 78% of sales come from top 20% products
+- Found 78% of sales come from top 20% products of top 3 categories
 - recommended focus on  for max Roi
 
 ## How to Run this project
