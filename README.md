@@ -41,8 +41,6 @@ Analysis Sales data to Exctract Business Insights and Visualize Trends using Pyt
 ##  About the Author
 **Shahbaz Akhtar**  
 Data Analyst skilled in Python, SQL and Power BI  
-[Linkdin]- [https://www.linkedin.com/in/shahbaz-akhtar-3195641b4/]
-(http://www.linkedin.com/in/shahbaz-akhtar-3195641b4) 
-[Portfolio](https://github.com/Shahbaz890)
+[Linkdin]- [https://www.linkedin.com/in/shahbaz-akhtar-3195641b4] | [Portfolio] - (https://github.com/Shahbaz890)
 
 
